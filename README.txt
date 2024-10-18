@@ -1,12 +1,10 @@
-### 01010000 01100001 01101110 01100100 01100001 01110011 01110100 01100001
-
-```
-▗▄▄▖ ▗▞▀▜▌▄▄▄▄     ▐▌▗▞▀▜▌    ▗▖    ▄▄▄ █  ▐▌ ▄▄▄ ▐▌        ▄▄▄ ▗▞▀▚▖   ■  
-▐▌ ▐▌▝▚▄▟▌█   █    ▐▌▝▚▄▟▌    ▐▌   █    ▀▄▄▞▘▀▄▄  ▐▌       ▀▄▄  ▐▛▀▀▘▗▄▟▙▄▖
-▐▛▀▘      █   █ ▗▞▀▜▌         ▐▛▀▚▖█         ▄▄▄▀ ▐▛▀▚▖    ▄▄▄▀ ▝▚▄▄▖  ▐▌  
-▐▌              ▝▚▄▟▌         ▐▙▄▞▘               ▐▌ ▐▌                ▐▌  
-                                                                       ▐▌  
-```
+01010000 01100001 01101110 01100100 01100001  01110011 01110100 01100001 01010000
+   ___                _         _                    _                _   
+  / _ \__ _ _ __   __| | __ _  | |__  _ __ _   _ ___| |__    ___  ___| |_ 
+ / /_)/ _` | '_ \ / _` |/ _` | | '_ \| '__| | | / __| '_ \  / __|/ _ \ __|
+/ ___/ (_| | | | | (_| | (_| | | |_) | |  | |_| \__ \ | | | \__ \  __/ |_ 
+\/    \__,_|_| |_|\__,_|\__,_| |_.__/|_|   \__,_|___/_| |_| |___/\___|\__|
+                                                                                  
 
 Whether you're looking for panda stamps or planning to create your own
 panda-themed artwork, these cute clumsy pandas will have your back!
@@ -15,18 +13,18 @@ These panda stamp brushes for Procreate include a set of 14 unique stamps.
 They're perfect for creating cards, logos, posters, t-shirt designs, and other
 illustrations!
 
-## 1. System requirements
-#### Hardware
+# 1. System requirements
+## 1.1 Hardware
 Apple iPad Pro, Apple Pencil or iPad compatible stylus
 
-#### Software
+## 1.2 Software
 Apple iOS 14 or higher + Procreate 5.5 or higher
 
-#### iPad Storage
+## 1.3 iPad Storage
 2mb of available storage
 
-## 2. How to install Procreate brushes
-### 2.1 Install using a desktop
+# 2. How to install Procreate brushes
+## 2.1 Install using a desktop
 Desktop installation is the easiest and fastest method to get your brushes
 loaded into Procreate.
 
@@ -41,7 +39,7 @@ loaded into Procreate.
 5. Success! Fire up Procreate and you’ll find your brushes ready and waiting in
    a new brush set at the top of the brush library
 
-### 2.2 Install direct to iPad
+## 2.2 Install direct to iPad
 Use this method if you don't have access to a Mac desktop. These instructions
 can also be used to install brushes to Procreate Pocket for iPhone.
 
@@ -60,17 +58,16 @@ can also be used to install brushes to Procreate Pocket for iPhone.
 9. Success! Fire up Procreate and you’ll find your brushes ready and waiting in
    a new brush set at the top of the brush library
 
-## Whats included?
+# Whats included?
 
 - 14 panda stamps brushes
 - Includes a quick reference guide on how to install
 
-## What you'll dig
+# What you'll dig
 
 - Built from scratch to ensure optimal performance in Procreate app
 - Learn how to use your brushes quickly with the included user guide
 
-```ascii
     ██████                        ██████    
   ██████████  ████████████████  ██████████  
 ██████████████                ██████████████
@@ -95,6 +92,4 @@ can also be used to install brushes to Procreate Pocket for iPhone.
                 ▒▒▒▒▒▒▒▒▒▒▒▒                
                   ▒▒▒▒▒▒▒▒                  
                     ▒▒▒▒     
-```
-### 01010000 01100001 01101110 01100100 01100001 01110011 01110100 01100001
----
+01010000 01100001 01101110 01100100 01100001  01110011 01110100 01100001 01010000
